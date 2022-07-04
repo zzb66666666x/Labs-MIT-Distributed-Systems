@@ -1,3 +1,5 @@
+// lab file modified by Zhongbo Zhu 2022/7/5
+
 package mr
 
 import "log"
@@ -9,7 +11,6 @@ import "net/http"
 
 type Coordinator struct {
 	// Your definitions here.
-
 }
 
 // Your code here -- RPC handlers for the worker to call.

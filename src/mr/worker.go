@@ -1,3 +1,5 @@
+// lab file modified by Zhongbo Zhu 2022/7/5
+
 package mr
 
 import "fmt"
